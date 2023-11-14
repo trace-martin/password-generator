@@ -1,12 +1,38 @@
-# 03 JavaScript: Password Generator
 
-## Your Task
+  # Random Password Generator
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+  
+  ## Description:
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+  This is a random password generator. Users will be asked for certain criteria to be included in their password. If no criteria is selected the program will restart and not generate.
 
-## User Story
+  # ScreenCastify video link:
+
+
+  ## Table of Contents:
+
+  - [Installation](#installation)
+  - [Technology](#technology)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
+  - [Resources](#resources)
+  <hr>
+  
+  ## Installation:
+
+  To install this project you can clone the repo.
+
+  ## Technology:
+
+  During this project I used:
+  1) JavaScript - functionality
+  2) CSS - styling.
+  
+  ## User Story
 
 ```
 AS AN employee with access to sensitive data
@@ -31,70 +57,29 @@ THEN my input should be validated and at least one character type should be sele
 WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is displayed written to the page
 ```
 
-## Mock-Up
+  ## License:
 
-The following image shows the web application's appearance and functionality:
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+  <br>
+  This project is licensed under the <a href="https://opensource.org/license/mit/">MIT</a> License.
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-## Grading Requirements
+  ## Contributing:
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+  Anyone
 
-This Challenge is graded based on the following criteria: 
+  ## Questions:
+  <hr>
 
-### Technical Acceptance Criteria: 40%
+  If you have any questions or would like to reach me please use one of the methods below:
 
-* Satisfies all of the preceding acceptance criteria.
+  Email: trace.martin7817@gmail.com
 
-### Deployment: 32%
+  GitHub: [github.com/trace-martin](https://github.com/trace-martin)
 
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  ## Resources:
+  
+  
